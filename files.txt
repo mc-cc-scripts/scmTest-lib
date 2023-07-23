@@ -1,1 +1,1 @@
-test.lua
+scmTest.lua
